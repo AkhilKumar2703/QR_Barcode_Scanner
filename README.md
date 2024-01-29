@@ -1,0 +1,2 @@
+# CodeClauseInternship_QR_Barcode_Scanner
+CodeClause Internship Project 1
